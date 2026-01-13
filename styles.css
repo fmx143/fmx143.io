@@ -565,7 +565,9 @@ body {
 }
 
 .skill-item {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
     padding: 10px 16px;
     background: rgba(0, 217, 255, 0.05);
     color: var(--text-muted);
@@ -573,6 +575,7 @@ body {
     font-size: 14px;
     border: 1px solid rgba(0, 217, 255, 0.2);
     transition: all 0.3s ease;
+    width: fit-content;
 }
 
 .skill-item:hover {
@@ -580,6 +583,18 @@ body {
     color: var(--primary-color);
     border-color: var(--primary-color);
     transform: translateX(5px);
+}
+
+.skill-logo {
+    width: 20px;
+    height: 20px;
+    flex-shrink: 0;
+    filter: saturate(0%) brightness(0.8);
+    transition: filter 0.3s ease;
+}
+
+.skill-item:hover .skill-logo {
+    filter: saturate(100%) brightness(1);
 }
 
 /* Contact Section */
