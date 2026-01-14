@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio.
 
-🔗 Live *[Portfolio](https://fmx143.io/)*
+🔗 Live *[Portfolio]([https://fmx143.io/](https://fmx143.github.io/fmx143.io/))*
 - This space is a showcase of my work, experiments, and long-term projects across **software development, trading, and technical research**.
 
 ---
@@ -53,3 +53,4 @@ Nothing here constitutes financial advice.
 ---
 
 Thanks for visiting — feel free to explore ⭐
+
