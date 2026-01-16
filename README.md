@@ -35,14 +35,6 @@ Welcome to my GitHub page. I am **fmx143**, a **Quant Researcher & Algorithmic T
 
 ---
 
-### GitHub Statistics 📊
-
-#### 💻 Global Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fmx143&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="fmx143's stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmx143&layout=compact&theme=buefy&hide_border=true" alt="Most used languages" height="180px" />
-</p>
-
 #### 👁️ Profile Views
 ![Views](https://komarev.com/ghpvc/?username=fmx143&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
@@ -55,10 +47,7 @@ Welcome to my GitHub page. I am **fmx143**, a **Quant Researcher & Algorithmic T
 
 ### Connect with me 📫
 <p align="left">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/loïc-chapuis">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://fmx143.github.io/fmx143.io/">
@@ -67,3 +56,4 @@ Welcome to my GitHub page. I am **fmx143**, a **Quant Researcher & Algorithmic T
 </p>
 
 <p align="right">(Give a star ⭐ if you like my projects!)</p>
+
